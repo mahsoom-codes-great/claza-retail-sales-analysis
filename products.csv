@@ -1,0 +1,61 @@
+product_id,product_name,category,size,cost_price,selling_price
+1,Strap Sandal #1,Sandals,8,1548.77,2518.72
+2,Walking Sandal #2,Sandals,9,1611.36,2831.54
+3,Strap Sandal #3,Sandals,9,865.42,1739.75
+4,Walking Sandal #4,Sandals,11,1705.99,3575.21
+5,Comfort Flip Flop #5,Sandals,9,1200.52,1905.05
+6,Casual Slide #6,Sandals,9,845.45,1503.53
+7,Walking Sandal #7,Sandals,11,1783.78,3628.06
+8,Comfort Flip Flop #8,Sandals,10,1093.46,1563.23
+9,Strap Sandal #9,Sandals,9,1617.58,3395.87
+10,Casual Slide #10,Sandals,11,1136.33,2006.24
+11,Comfort Flip Flop #11,Sandals,7,973.97,1873.75
+12,Casual Slide #12,Sandals,8,1057.29,2299.99
+13,Trainer #13,Sneakers,11,1309.77,2726.17
+14,Trainer #14,Sneakers,9,1735.8,3300.52
+15,Running Sneaker #15,Sneakers,11,1264.44,2007.7
+16,Canvas Shoe #16,Sneakers,9,1796.4,3588.15
+17,Running Sneaker #17,Sneakers,6,1464.52,2875.02
+18,Trainer #18,Sneakers,6,632.91,1037.7
+19,Running Sneaker #19,Sneakers,8,854.12,1234.11
+20,Canvas Shoe #20,Sneakers,9,1002.96,1600.08
+21,Casual Sneaker #21,Sneakers,9,637.98,933.48
+22,Casual Sneaker #22,Sneakers,7,1096.73,2047.07
+23,Trainer #23,Sneakers,11,1293.07,2285.7
+24,Running Sneaker #24,Sneakers,8,1658.47,2939.14
+25,Derby Shoe #25,Formal,10,503.41,1085.45
+26,Loafer #26,Formal,8,1294.51,2251.73
+27,Formal Slip-on #27,Formal,9,1583.43,2469.16
+28,Formal Slip-on #28,Formal,8,549.31,936.62
+29,Loafer #29,Formal,11,1789.77,2928.39
+30,Formal Slip-on #30,Formal,11,784.27,1453.05
+31,Oxford Shoe #31,Formal,8,1674.86,3343.25
+32,Derby Shoe #32,Formal,11,1249.89,2102.14
+33,Derby Shoe #33,Formal,11,1269.25,2465.15
+34,Derby Shoe #34,Formal,11,1279.55,2716.13
+35,Oxford Shoe #35,Formal,10,832.51,1459.11
+36,Loafer #36,Formal,8,1425.3,2098.19
+37,Badminton Shoe #37,Sports,7,1446.47,2228.3
+38,Badminton Shoe #38,Sports,7,1143.19,2435.9
+39,Badminton Shoe #39,Sports,8,1679.67,3620.28
+40,Badminton Shoe #40,Sports,6,1525.93,2708.01
+41,Cricket Shoe #41,Sports,11,1455.81,2300.9
+42,Gym Shoe #42,Sports,8,1754.18,3584.97
+43,Training Shoe #43,Sports,10,1506.95,2126.51
+44,Training Shoe #44,Sports,11,1036.7,2009.4
+45,Badminton Shoe #45,Sports,8,1218.38,2507.35
+46,Training Shoe #46,Sports,10,1344.77,2389.9
+47,Badminton Shoe #47,Sports,6,1681.36,2651.66
+48,Gym Shoe #48,Sports,9,1673.14,2746.88
+49,Kids School Shoe #49,Kids,8,595.69,1284.91
+50,Kids Sports Shoe #50,Kids,10,562.57,893.27
+51,Kids Sandal #51,Kids,11,944.1,1601.96
+52,Kids Sports Shoe #52,Kids,9,1222.28,2421.68
+53,Kids School Shoe #53,Kids,8,1567.17,2965.9
+54,Kids School Shoe #54,Kids,9,1366.39,2150.45
+55,Kids Sandal #55,Kids,11,1597.63,2363.67
+56,Kids Sneaker #56,Kids,8,1162.25,2536.35
+57,Kids School Shoe #57,Kids,6,957.4,1485.74
+58,Kids Sports Shoe #58,Kids,11,528.34,829.33
+59,Kids School Shoe #59,Kids,7,470.81,784.75
+60,Kids Sandal #60,Kids,7,496.05,998.12
